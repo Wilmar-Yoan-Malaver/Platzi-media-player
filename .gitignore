@@ -3,3 +3,6 @@ ejercicio.mp4
 
 node_modules
 lib
+
+.cache/
+dist/
